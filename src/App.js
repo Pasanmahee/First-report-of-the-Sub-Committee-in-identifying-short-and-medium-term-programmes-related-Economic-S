@@ -1,4 +1,4 @@
-import backgroundImage from './economiccommitee-background.jpg';
+import backgroundImage from './economiccommitee-background-min.jpg';
 import './App.css';
 
 function App() {
