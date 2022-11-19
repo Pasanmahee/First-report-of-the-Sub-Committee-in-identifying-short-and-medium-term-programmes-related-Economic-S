@@ -12,7 +12,6 @@ function App() {
             className="btn"
             href="./Final-Report-to-PLO.pdf"
             rel="noopener noreferrer"
-            target="_blank"
           >
             Download
           </a>
